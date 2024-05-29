@@ -1,0 +1,67 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Epic Template"
+    id="id-1f7653999fb74ad19ccdf3895d4d6dc8"
+    documentation="Функциональный инкремент, который может выполнить несколько команд в течении одного релиза. Декомпозируется на User Stories.">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-072594b71b804ba79bce90f26d8a776a"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Description">
+    <bounds
+        x="72"
+        y="48"
+        width="1165"
+        height="145"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-dec14b22a498491ea4b746d5586e834e"
+      textAlignment="1"
+      borderColor="#000000"
+      content="TODO">
+    <bounds
+        x="72"
+        y="240"
+        width="241"
+        height="745"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-53718a87a08b4f6284cd69b1e2a6dab8"
+      textAlignment="1"
+      borderColor="#000000"
+      content="In Progress">
+    <bounds
+        x="336"
+        y="240"
+        width="241"
+        height="745"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-2ef2b8f7850644bc987258b8ef582e9d"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Testing">
+    <bounds
+        x="612"
+        y="240"
+        width="241"
+        height="745"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-6b838976b60842b9bf3b17d798045fb1"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Done">
+    <bounds
+        x="900"
+        y="240"
+        width="241"
+        height="745"/>
+  </children>
+</canvas:CanvasModel>

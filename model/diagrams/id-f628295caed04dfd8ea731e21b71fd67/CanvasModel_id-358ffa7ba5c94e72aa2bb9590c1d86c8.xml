@@ -1,0 +1,32 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Spike Template"
+    id="id-358ffa7ba5c94e72aa2bb9590c1d86c8"
+    documentation="Элемент бэклога, который не производит ни функционального, ни системного инкремента, но необходим для того, чтобы довести User Story до состояния DoR (Definition of Ready). Обычно направлен на уточнение требований или на создания PoC (Prototype) в тех случаях, когда существует более одного варианта реализации или невозможно оценить User Story.">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-18329e1bd50a40d7b507eca4ba3b6a65"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Description">
+    <bounds
+        x="72"
+        y="48"
+        width="1165"
+        height="145"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-32ac9a10b1b44d5995d95fc340fa8525"
+      textAlignment="1"
+      fillColor="#ffff95"
+      content="Assigned: "
+      borderColor="#C0C0C0">
+    <bounds
+        x="72"
+        y="-36"
+        width="337"
+        height="37"/>
+  </children>
+</canvas:CanvasModel>

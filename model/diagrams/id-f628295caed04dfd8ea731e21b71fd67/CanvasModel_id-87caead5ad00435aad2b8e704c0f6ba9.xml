@@ -1,0 +1,54 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Sprint Backlog Template"
+    id="id-87caead5ad00435aad2b8e704c0f6ba9">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-48b2bfb2d7f6485585cfc2d1c1a74371"
+      textAlignment="1"
+      borderColor="#000000"
+      content="TODO">
+    <bounds
+        x="96"
+        y="36"
+        width="277"
+        height="589"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-2e16ccb4653e4e27a46b1e9c3c961783"
+      textAlignment="1"
+      borderColor="#000000"
+      content="In Progress">
+    <bounds
+        x="408"
+        y="36"
+        width="277"
+        height="589"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-f329f554599c437587bf8bad356c9e1d"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Testing">
+    <bounds
+        x="732"
+        y="36"
+        width="277"
+        height="589"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-05d37e453b734eb89a4fb2b5222a7824"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Done">
+    <bounds
+        x="1044"
+        y="36"
+        width="277"
+        height="589"/>
+  </children>
+</canvas:CanvasModel>

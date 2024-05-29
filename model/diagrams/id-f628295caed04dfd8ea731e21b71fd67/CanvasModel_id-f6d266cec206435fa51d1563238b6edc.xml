@@ -1,0 +1,32 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Task Template"
+    id="id-f6d266cec206435fa51d1563238b6edc"
+    documentation="Системный инкремент, который может осуществить один специалист в течении одной итерации (спринта).">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-7b68cf34a1a0462397d2bdd5e895a523"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Description">
+    <bounds
+        x="72"
+        y="48"
+        width="1165"
+        height="145"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-f9b22c57fcc440568e592e980264d832"
+      textAlignment="1"
+      fillColor="#ffff95"
+      content="Assigned: "
+      borderColor="#C0C0C0">
+    <bounds
+        x="72"
+        y="-36"
+        width="337"
+        height="37"/>
+  </children>
+</canvas:CanvasModel>

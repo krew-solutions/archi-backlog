@@ -1,0 +1,43 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Spike #2 Подготовить ADR"
+    id="id-535b8efed59a40a3a6b236e8de2d9400">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-3e8d2b30e44c49f6ab004abd304b1ed0"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Description">
+    <bounds
+        x="72"
+        y="48"
+        width="1165"
+        height="145"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-1b2b6f1871964321a687656bf6f23aff"
+      textAlignment="1"
+      fillColor="#ffff95"
+      content="Assigned: "
+      borderColor="#C0C0C0">
+    <bounds
+        x="72"
+        y="-36"
+        width="337"
+        height="37"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-3c1c1efa8b7f4c7f9c928d57fe194cd0"
+      textAlignment="1"
+      fillColor="#ffff95"
+      content="Assigned: "
+      borderColor="#C0C0C0">
+    <bounds
+        x="72"
+        width="337"
+        height="37"/>
+  </children>
+</canvas:CanvasModel>

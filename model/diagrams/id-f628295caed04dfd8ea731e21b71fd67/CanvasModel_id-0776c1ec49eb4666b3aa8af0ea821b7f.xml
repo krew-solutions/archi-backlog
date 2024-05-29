@@ -1,0 +1,104 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Enabler Template"
+    id="id-0776c1ec49eb4666b3aa8af0ea821b7f"
+    documentation="Техническая сторя, которая предусматривает изменение конструкции без изменения внешнего поведения системы.">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-567281dfebba4583b01bed9ddb52d7fa"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Description">
+    <bounds
+        x="72"
+        y="48"
+        width="1165"
+        height="145"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-2dba2bdf62694e4fbb3ff2f724944aee"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Functional Acceptance Criteria">
+    <bounds
+        x="72"
+        y="222"
+        width="1165"
+        height="139"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-f4a7931075e54250ab4232c2dd162a24"
+      textAlignment="1"
+      borderColor="#000000"
+      content="TODO">
+    <bounds
+        x="84"
+        y="660"
+        width="241"
+        height="745"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-0c1c756b5bc04a479a43e65d7fa1097e"
+      textAlignment="1"
+      borderColor="#000000"
+      content="In Progress">
+    <bounds
+        x="360"
+        y="660"
+        width="241"
+        height="745"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-969937383fc7449489d9969f6e84b3b3"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Code Review">
+    <bounds
+        x="636"
+        y="660"
+        width="241"
+        height="745"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-e5c18cc2d8b9493fabb50ca3866e4a4b"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Done">
+    <bounds
+        x="924"
+        y="660"
+        width="241"
+        height="745"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-f72b04a283b44a8c831f03e59c8b20ba"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Non-functional Acceptance Criteria">
+    <bounds
+        x="72"
+        y="396"
+        width="1165"
+        height="139"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-a494acb1c39647d69d6c8ce940628603"
+      textAlignment="1"
+      fillColor="#ffff95"
+      content="Assigned: "
+      borderColor="#C0C0C0">
+    <bounds
+        x="72"
+        y="-36"
+        width="337"
+        height="37"/>
+  </children>
+</canvas:CanvasModel>
