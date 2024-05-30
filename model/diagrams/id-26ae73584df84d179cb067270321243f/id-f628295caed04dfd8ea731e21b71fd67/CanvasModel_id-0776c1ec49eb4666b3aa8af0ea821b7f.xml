@@ -101,4 +101,16 @@
         width="337"
         height="37"/>
   </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-a7913cdd0c4846afa9cdb7e566db45d1"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Dependencies">
+    <bounds
+        x="1284"
+        y="48"
+        width="200"
+        height="200"/>
+  </children>
 </canvas:CanvasModel>
