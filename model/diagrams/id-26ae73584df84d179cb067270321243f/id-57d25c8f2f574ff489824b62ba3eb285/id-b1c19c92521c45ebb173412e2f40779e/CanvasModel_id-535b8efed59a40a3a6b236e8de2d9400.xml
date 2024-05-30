@@ -1,7 +1,7 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="Spike #2 Подготовить ADR"
+    name="Spike #2 Подготовить ADR по системе розжига"
     id="id-535b8efed59a40a3a6b236e8de2d9400">
   <children
       xsi:type="canvas:CanvasModelBlock"
