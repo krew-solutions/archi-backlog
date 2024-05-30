@@ -8,10 +8,11 @@
       xsi:type="canvas:CanvasModelBlock"
       id="id-d8eb62f9ea1c48c3be7a045c23684f80"
       textAlignment="1"
+      alpha="200"
       borderColor="#000000"
       content="TODO">
     <bounds
-        x="96"
+        x="-216"
         y="36"
         width="277"
         height="589"/>
@@ -20,6 +21,7 @@
       xsi:type="canvas:CanvasModelBlock"
       id="id-e80dda24c7c04cb880dcab7477065e68"
       textAlignment="1"
+      alpha="200"
       borderColor="#000000"
       content="In Progress">
     <bounds
@@ -46,10 +48,11 @@
       xsi:type="canvas:CanvasModelBlock"
       id="id-e90b3ff2696c477a872758f3f26effa5"
       textAlignment="1"
+      alpha="200"
       borderColor="#000000"
       content="Testing">
     <bounds
-        x="732"
+        x="720"
         y="36"
         width="277"
         height="589"/>
@@ -58,10 +61,24 @@
       xsi:type="canvas:CanvasModelBlock"
       id="id-cc3cbfc7631947fc9adb13179df87e03"
       textAlignment="1"
+      alpha="200"
       borderColor="#000000"
       content="Done">
     <bounds
-        x="1044"
+        x="1032"
+        y="36"
+        width="277"
+        height="589"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-406b6940e231437abacbdfa85abb84c9"
+      textAlignment="1"
+      alpha="200"
+      borderColor="#000000"
+      content="Postpone">
+    <bounds
+        x="96"
         y="36"
         width="277"
         height="589"/>
@@ -71,9 +88,9 @@
       id="id-a75a2ff9acb44bd18d0ea964dffac916"
       textAlignment="1">
     <bounds
-        x="-84"
-        y="72"
-        width="1501"
+        x="-360"
+        y="84"
+        width="1717"
         height="37"/>
     <referencedModel
         xsi:type="canvas:CanvasModel"

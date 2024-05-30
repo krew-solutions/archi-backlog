@@ -1,0 +1,32 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Product Backlog Template"
+    id="id-cbb3bde702df4f19a79bce3ac2d308ce">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-2de2297fdb9445deb8384853dda78f7f"
+      textAlignment="1"
+      alpha="200"
+      borderColor="#000000"
+      content="TODO">
+    <bounds
+        x="36"
+        y="36"
+        width="277"
+        height="1189"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-1d50ced01d064364a470df66b73cc434"
+      textAlignment="1"
+      alpha="200"
+      borderColor="#000000"
+      content="Postpone">
+    <bounds
+        x="372"
+        y="36"
+        width="277"
+        height="1189"/>
+  </children>
+</canvas:CanvasModel>

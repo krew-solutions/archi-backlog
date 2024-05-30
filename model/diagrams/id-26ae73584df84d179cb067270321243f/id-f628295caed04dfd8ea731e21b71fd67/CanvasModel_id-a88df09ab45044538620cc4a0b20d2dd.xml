@@ -1,11 +1,11 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="Sprint Backlog Template"
-    id="id-87caead5ad00435aad2b8e704c0f6ba9">
+    name="Kanban Board Template"
+    id="id-a88df09ab45044538620cc4a0b20d2dd">
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-48b2bfb2d7f6485585cfc2d1c1a74371"
+      id="id-e1adc56c719a4eddb86bd87db54420de"
       textAlignment="1"
       alpha="200"
       borderColor="#000000"
@@ -18,7 +18,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-2e16ccb4653e4e27a46b1e9c3c961783"
+      id="id-f9b8895a86ed4eb68b3b05eceb1d5ec5"
       textAlignment="1"
       alpha="200"
       borderColor="#000000"
@@ -31,7 +31,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-f329f554599c437587bf8bad356c9e1d"
+      id="id-c9171e28ba2b4495b92c54199cb1efdf"
       textAlignment="1"
       alpha="200"
       borderColor="#000000"
@@ -44,7 +44,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-05d37e453b734eb89a4fb2b5222a7824"
+      id="id-874081bd77fe45f891d1f734d667eda1"
       textAlignment="1"
       alpha="200"
       borderColor="#000000"
@@ -57,7 +57,7 @@
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
-      id="id-52756daee15c40fbaa88f265a9189683"
+      id="id-a082e328530f4983858a249480056fc3"
       textAlignment="1"
       alpha="200"
       borderColor="#000000"
