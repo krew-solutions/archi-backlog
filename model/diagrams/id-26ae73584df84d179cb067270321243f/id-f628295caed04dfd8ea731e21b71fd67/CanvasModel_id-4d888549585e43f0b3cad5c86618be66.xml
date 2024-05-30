@@ -1,0 +1,55 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Defect Template"
+    id="id-4d888549585e43f0b3cad5c86618be66">
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-cd60780baabc4f8298c8093249579f47"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Description">
+    <bounds
+        x="60"
+        y="132"
+        width="1165"
+        height="145"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-16b30e062e0f4c0cb504b8aa07cb3fe4"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Actual Behavior">
+    <bounds
+        x="60"
+        y="492"
+        width="1165"
+        height="217"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelBlock"
+      id="id-9259d8e572264d9ba1975e4693e7425f"
+      textAlignment="1"
+      borderColor="#000000"
+      content="Expected Behavior">
+    <bounds
+        x="60"
+        y="312"
+        width="1165"
+        height="139"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-e723e7e8d8ff491f93912a56d19df8ac"
+      textAlignment="1"
+      fillColor="#ffff95"
+      content="Assigned: "
+      borderColor="#C0C0C0">
+    <bounds
+        x="60"
+        y="48"
+        width="337"
+        height="37"/>
+  </children>
+</canvas:CanvasModel>
